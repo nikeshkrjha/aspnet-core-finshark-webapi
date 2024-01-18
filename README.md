@@ -5,6 +5,7 @@
 - Mapping from Model to DTO objects
 - Authentication using JWT
 - CRUD functionality using EF Core
+- Implementing One-To-Many relationship in EF Core
 - Repository pattern to perform database operations
 - Using nuget pacakges to perform various operations
 - Validating requests data using Annotations
