@@ -9,6 +9,7 @@
 - Repository pattern to perform database operations
 - Using nuget pacakges to perform various operations
 - Validating requests data using Annotations
+- Sorting and Filtering data
 
 ### Tech Stack Details
 - Database: Postgres
